@@ -1,3 +1,0 @@
-C:/Users/jiazhong/Documents/HCI-557-CG/assignments/02_Programming_and_3D_Modeling/CMakeFiles/ALL_BUILD.dir
-C:/Users/jiazhong/Documents/HCI-557-CG/assignments/02_Programming_and_3D_Modeling/CMakeFiles/ZERO_CHECK.dir
-C:/Users/jiazhong/Documents/HCI-557-CG/assignments/02_Programming_and_3D_Modeling/CMakeFiles/HW2_Program.dir
